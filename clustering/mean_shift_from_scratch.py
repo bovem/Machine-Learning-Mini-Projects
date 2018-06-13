@@ -19,9 +19,9 @@ X = np.array([[1, 2],
 colors = 10*["g","r","c","b","k"]
 
 class Mean_Shift:
-    def __init__(self, radius=4):
+    def __init__(self, radius=None, radius_norm_step = 100):
         self.radius = radius
-
+        self.radius_norm_step = radius_norm_step
     def fit(self, data):
         centroids = {}
 
