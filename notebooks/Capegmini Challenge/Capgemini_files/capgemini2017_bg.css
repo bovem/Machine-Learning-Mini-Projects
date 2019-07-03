@@ -1,0 +1,26 @@
+body {background:#091124 url(images/capgemini2016_images/background-bg.jpg) left top no-repeat; background-size:100% auto;}
+.banner-description .total-registered { background-image:url(images/capgemini2016_images/total-register-bg.png); background-repeat:repeat-x; }
+#login-header { background:url(images/capgemini2016_images/page-header-bg.jpg)no-repeat; background-size:cover;}
+.concept { background:url(images/capgemini2016_images/section-bg.png); background-size:cover;}
+#prizes { background:url(images/capgemini2016_images/section-bg2.jpg); background-size:cover; }
+.layout2 #page-header { background:url(images/capgemini2016_images/page-header-bg2.jpg); background-size:cover;}
+.prize-page { background:#2d112e url(images/capgemini2016_images/terms-bg.png) top center no-repeat; background-size:100% auto;}
+.team-page { background:url(images/capgemini2016_images/team-bg.png); background-size:cover; }
+.schedule-page { background:#0c110f url(images/capgemini2016_images/schedule-bg.png) left top no-repeat; background-size:100% auto;   }
+.step-page { background:#100b21 url(images/capgemini2016_images/steps-bg.png) top center no-repeat; background-size:100% auto; }
+#user-location { background:url(images/cg2016_images/location-bg.jpg) left top no-repeat; background-size:cover;}
+#how-it-works .work-flow { background:url(images/cg2016_images/xwork-flow-bg1.png) center top no-repeat;}
+.landing-page #awards-prizes { background:url(images/cg2016_images/awards-prizes-bg.png) center center no-repeat; background-size:cover;}
+.thanks-page { background:#1b0f01 url(images/capgemini2016_images/sign-up-login-bg.png) top center no-repeat; background-size:100% auto;  }
+.terms-page { background:#2d112e url(images/capgemini2016_images/terms-bg.png) top center no-repeat; background-size:100% auto;}
+.capgemini-theme-page { background:#010b1c url(images/capgemini2016_images/theme-page-bg.png) top center no-repeat; background-size:100% auto;  }
+.campus-page { background:#2e154d url(images/capgemini2016_images/campus-page.png) top center no-repeat; background-size:100% auto;  }
+.winner-page { background:#010b1c url(images/capgemini2017-images/winner-page-2017.png) top center no-repeat; background-size:100% auto;  }
+#image-gallery {  background:#010b1c url(images/capgemini2017-images/image-gallery-bg.png) top center no-repeat; background-size:100% auto;  } 
+#action-youtube {  background:#010b1c url(images/capgemini2017-images/video-gallery-bg.png) top center no-repeat; background-size:100% auto;  } 
+.error-page { background:url(images/capgemini2016_images/404-error-bg.jpg); background-size:cover; background-color:none; }
+body.signup-page { background:#1b0f01 url(images/capgemini2016_images/sign-up-login-bg.png) left top no-repeat; background-size:100% auto; }
+#finale-static-contents { background:#010113 url(images/capgemini2016_images/finale-bg1.png) left top no-repeat; background-size:100% auto; }
+#finale-schedule { background:url(images/capgemini2016_images/finale-shedule-bg.png) left top no-repeat; background-size:cover; }
+
+
